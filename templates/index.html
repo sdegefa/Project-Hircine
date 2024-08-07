@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personnel Detection</title>
+    <style>
+        .data {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .data th, .data td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personnel Detection</h1>
+    {% if data_html %}
+        <h2>Detection Results:</h2>
+        <div>{{ data_html|safe }}</div>
+        <h2>Detected Image:</h2>
+        <img src="{{ image_data }}" alt="Detected Image">
+    {% endif %}
+</body>
+</html>
