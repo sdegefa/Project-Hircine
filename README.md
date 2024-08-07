@@ -80,6 +80,7 @@ sername/Project-Hircine/issues/new?labels=bug&template=bug-report---.md">Report 
 * [![Ultralytics][Ultralytics.com]][Ultralytics-url]
 * [![Docker][Docker]][Docker-url]
 * [![PyTak][PyTak.com]][PyTak-url]
+* [![TAK][TAK.gov]][TAK-url]
 
 
 
@@ -159,7 +160,7 @@ Project Link: [https://github.com/sdegefa/Project-Hircine](https://github.com/sd
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+ 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -186,5 +187,6 @@ Project Link: [https://github.com/sdegefa/Project-Hircine](https://github.com/sd
 [Docker-url]: https://www.docker.com/
 [Flask]: https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white
 [Flask-url]: https://pytak.readthedocs.io/en/latest/
-
+[TAK.gov]: https://img.shields.io/badge/tak-18191B?style=for-the-badge&logo=tak&logoColor=white
+[TAK-url]: https://tak.gov/
  
