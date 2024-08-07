@@ -1,40 +1,35 @@
-Project Hiricine
-========================
-By:<br>
-Solan Degefa <br>
-Garrett Herb
-
---------
-
-
 <a id="readme-top"></a>
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-<!-- PROJECT LOGO -->Here's a blank template to get started: To avHere's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sdegefa`, `Project-Hiricine`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`oid retyping too much info. Do a search and replace with your text editor for the following: `sdegefa`, `Project-Hiricine`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-<br />argv
+<!-- PROJECT LOGO -->
+<br />
 <div align="center">
-  <a href="https://github.com/sdegefa/Project-Hiricine">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>project_title
+  <a href="https://github.com/sdegefa/Project-Hircine">
+    <img src="images/logo.png" alt="Logo" width="180" height="180">
+  </a>
 
-<h3 align="center">Project Hiricine</h3>
+<h3 align="center">Project Hircine</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/sdegefa/Project-Hiricine"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sdegefa/Project-Hircine"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sdegefa/Project-Hiricine">View Demo</a>
+    <a href="https://github.com/sdegefa/Project-Hircine">View Demo</a>
     ·
     <a href="https://github.com/github_u<!-- TABLE OF CONTENTS -->
-sername/Project-Hiricine/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+sername/Project-Hircine/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/sdegefa/Project-Hiricine/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/sdegefa/Project-Hircine/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
-</div>Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sdegefa`, `Project-Hiricine`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+</div>
 
 
 
@@ -55,12 +50,13 @@ sername/Project-Hiricine/issues/new?labels=bug&template=bug-report---.md">Report
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sdegefa`, `Project-Hiricine`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li><!-- PROJECT SHIELDS -->
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
@@ -69,16 +65,20 @@ sername/Project-Hiricine/issues/new?labels=bug&template=bug-report---.md">Report
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 
 
@@ -93,6 +93,7 @@ sername/Project-Hiricine/issues/new?labels=bug&template=bug-report---.md">Report
 * [PyTak](https://pytak.readthedocs.io/en/latest/)
 * [Docker](https://www.docker.com/)
 * [Other Link 2]()
+* [![Next-js]]
 
 
 
@@ -115,12 +116,12 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Installationlinkedin
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/sdegefa/Project-Hiricine.git
+   git clone https://github.com/sdegefa/Project-Hircine.git
    ```
 3. Install NPM packages
    ```sh
@@ -133,28 +134,9 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/sdegefa/Project-Hiricine/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/sdegefa/Project-Hircine/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,7 +159,6 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- LICENSE -->
 ## License
 
@@ -190,9 +171,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Solan Degefa - [@sdegefa](https://github.com/sdegefa) - email@email_client.com <br/>
+Garrett Herb - [@gwherb](https://github.com/gwherb) - email@email_client.com
 
-Project Link: [https://github.com/sdegefa/Project-Hiricine](https://github.com/sdegefa/Project-Hiricine)
+Project Link: [https://github.com/sdegefa/Project-Hircine](https://github.com/sdegefa/Project-Hircine)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,16 +193,16 @@ Project Link: [https://github.com/sdegefa/Project-Hiricine](https://github.com/s
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sdegefa/Project-Hiricine.svg?style=for-the-badge
-[contributors-url]: https://github.com/sdegefa/Project-Hiricine/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sdegefa/Project-Hiricine.svg?style=for-the-badge
-[forks-url]: https://github.com/sdegefa/Project-Hiricine/network/members
-[stars-shield]: https://img.shields.io/github/stars/sdegefa/Project-Hiricine.svg?style=for-the-badge
-[stars-url]: https://github.com/sdegefa/Project-Hiricine/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sdegefa/Project-Hiricine.svg?style=for-the-badge
-[issues-url]: https://github.com/sdegefa/Project-Hiricine/issues
-[license-shield]: https://img.shields.io/github/license/sdegefa/Project-Hiricine.svg?style=for-the-badge
-[license-url]: https://github.com/sdegefa/Project-Hiricine/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sdegefa/Project-Hircine.svg?style=for-the-badge
+[contributors-url]: https://github.com/sdegefa/Project-Hircine/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sdegefa/Project-Hircine.svg?style=for-the-badge
+[forks-url]: https://github.com/sdegefa/Project-Hircine/network/members
+[stars-shield]: https://img.shields.io/github/stars/sdegefa/Project-Hircine.svg?style=for-the-badge
+[stars-url]: https://github.com/sdegefa/Project-Hircine/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sdegefa/Project-Hircine.svg?style=for-the-badge
+[issues-url]: https://github.com/sdegefa/Project-Hircine/issues
+[license-shield]: https://img.shields.io/github/license/sdegefa/Project-Hircine.svg?style=for-the-badge
+[license-url]: https://github.com/sdegefa/Project-Hircine/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
