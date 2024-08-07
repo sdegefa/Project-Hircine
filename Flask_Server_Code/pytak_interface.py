@@ -120,7 +120,7 @@ async def main(latitude:float=None, longitude:float=None, marker_name:str=None )
     adds your serializer to the asyncio task list.
     """
     # print(LOCALHOST_IP, LONGITUDE, LATITUDE, MARKER_NAME)   # Debugging
-/home/sd22/tak-plugin-dev/pytak_test/pytak_interface.py
+
     config = ConfigParser()
     config["mycottool"] = {
         "COT_URL": f"tls://{LOCALHOST_IP}:8089",
