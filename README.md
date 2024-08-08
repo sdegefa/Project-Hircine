@@ -74,6 +74,12 @@ sername/Project-Hircine/issues/new?labels=bug&template=bug-report---.md">Report 
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+### Project Description
+
+This project set out to design computer vision software for compact drones to assist ground soldiers with walk ins. The software utilizes YOLO for object detection and Google's Hitnet model for stereovision depth. With these technologies, an objects position relative to a drone can be found. Our program also seeks to communicate a detected objects information to a TAK server.
+
+In addition to the initial project vision above, we created an program to Render detections from the drone from the point of view of an external device. This acts as "wallhacks" for the external viewer.
+
 ### Built With
 
 * [![Flask][Flask]][Flask-url]
