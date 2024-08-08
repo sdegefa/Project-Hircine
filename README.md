@@ -114,14 +114,20 @@ In this repo, we have broken down the project into a couple parts:
 
 ### Prerequisites
 
-**Detector hardware requirements:** Raspberry Pi (64 bit Bookworm), 2 x RPi Camera Modules, qmc 5883l compass module
+**Detector hardware requirements:** Raspberry Pi (64 bit Bookworm), 2 x RPi Camera Modules, qmc5883l compass module
 
-**Viewer hardware requirements:** Raspberry Pi (64 bit Bookworm), 1 x RPi Camera Modules, qmc 5883l compass module, RPi 7 inch touch screen (for mobile viewing)
+**Viewer hardware requirements:** Raspberry Pi (64 bit Bookworm), 1 x RPi Camera Modules, qmc5883l compass module, RPi 7 inch touch screen (for mobile viewing)
 
 
-### Installationlinkedin
+### Setup
+**Once all hardware is setup:**
+1. Initliaize Flask server: ```sh python flask_host.py```
+2. Start up detector on detector RPi: ```sh python server_posting.py```
+3. Send information detections to TAK client and viewer RPi by sending a GET request to @/lat_lon
+4. To view objects on the viewer RPi, run ```sh python pi_viewer.py```
 
-1. Get a free API Key at [https://example.com](https://example.com)
+**Compass Installation:** See [py_qmc5883l][https://github.com/RigacciOrg/py-qmc5883l] for compass module instructions
+
 2. Clone the repo
    ```sh
    git clone https://github.com/sdegefa/Project-Hircine.git
