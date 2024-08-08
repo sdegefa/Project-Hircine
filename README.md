@@ -94,9 +94,6 @@ The object detection was done on a raspberry pi for its cheap cost to make produ
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -131,34 +128,10 @@ In this repo, we have broken down the project into a couple parts:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "eSolannhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.https://www.docker.com/
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> 
-
-Project Link: [https://github.com/sdegefa/Project-Hircine](https://github.com/sdegefa/Project-Hircine)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Huge thank you to the entire USASOC AI/ML Division for supporting us with this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
