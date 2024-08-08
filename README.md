@@ -101,8 +101,12 @@ The object detection was done on a raspberry pi for its cheap cost to make produ
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+In this repo, we have broken down the project into a couple parts:
+**Training:** Files for training and tuning of the object detection model
+**Raspberry Pi Files:** Files for both the detector and external viewer
+**Server Hosting:** Files for hosting the server to facilitate communication between devices as well as perform depth detection on incoming object detections
+**TAK Utilities:** Files for communicating with an ATAK client
+
 
 ### Prerequisites
 
