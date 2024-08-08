@@ -82,6 +82,8 @@ In addition to the initial project vision above, we created an program to Render
 
 The object detection was done on a raspberry pi for its cheap cost to make producing these drones scalable. Depth detection and server hosting was done on a laptop with the compute power to quickly perform depth calculations. We used ATAK for our TAK communications as an Android devices is the most realistic platform that our TAK communications will go to.
 
+For a more detailed description of some of our Technology motivations, see ```Technology Motivations.pdf```
+
 ### Built With
 
 * [![Flask][Flask]][Flask-url]
