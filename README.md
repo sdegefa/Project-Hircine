@@ -92,9 +92,6 @@ The object detection was done on a raspberry pi for its cheap cost to make produ
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -124,8 +121,6 @@ In this repo, we have broken down the project into a couple parts:
 4. To view objects on the viewer RPi: ```python pi_viewer.py```
 
 **Compass Installation:** See [py_qmc5883l](https://github.com/RigacciOrg/py-qmc5883l) for compass module instructions
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
