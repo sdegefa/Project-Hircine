@@ -121,12 +121,12 @@ In this repo, we have broken down the project into a couple parts:
 
 ### Setup
 **Once all hardware is setup:**
-1. Initliaize Flask server: ```sh python flask_host.py```
-2. Start up detector on detector RPi: ```sh python server_posting.py```
+1. Initliaize Flask server: ```python flask_host.py```
+2. Start up detector on detector RPi: ```python server_posting.py```
 3. Send information detections to TAK client and viewer RPi by sending a GET request to @/lat_lon
-4. To view objects on the viewer RPi, run ```sh python pi_viewer.py```
+4. To view objects on the viewer RPi, run ```python pi_viewer.py```
 
-**Compass Installation:** See [py_qmc5883l][https://github.com/RigacciOrg/py-qmc5883l] for compass module instructions
+**Compass Installation:** See [py_qmc5883l](https://github.com/RigacciOrg/py-qmc5883l) for compass module instructions
 
 2. Clone the repo
    ```sh
