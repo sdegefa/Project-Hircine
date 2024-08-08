@@ -3,6 +3,7 @@
 import asyncio
 import xml.etree.ElementTree as ET
 import pytak
+import os
 from os import popen, environ
 from sys import argv
 from dotenv import load_dotenv

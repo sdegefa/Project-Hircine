@@ -125,8 +125,8 @@ def lat_lon():
         coords = get_obj_coords(pi_coords, depths, angles)
         lats, lons = cart_to_ll(coords)
     # print(lat, lon)
-    # for idx, lat in enumerate(lats):
-    #     run(main(latitude=lat, longitude=lons[idx], marker_name=f"test_{idx}"))
+    for idx, lat in enumerate(lats):
+        run(main(latitude=lat, longitude=lons[idx], marker_name=f"test_{idx}"))
 
     return jsonify(lats, lons) 
 

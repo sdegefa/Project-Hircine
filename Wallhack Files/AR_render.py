@@ -1,6 +1,4 @@
 import cv2
-import math
-import numpy as np
 from utils import ll_to_cart, get_obj_coords, fov_check, get_scales, overlay_detections, angle_conv
 
 # Assumptions that would be gathered from pi or other sensors
