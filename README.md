@@ -124,28 +124,9 @@ In this repo, we have broken down the project into a couple parts:
 1. Initliaize Flask server: ```python flask_host.py```
 2. Start up detector on detector RPi: ```python server_posting.py```
 3. Send information detections to TAK client and viewer RPi by sending a GET request to @/lat_lon
-4. To view objects on the viewer RPi, run ```python pi_viewer.py```
+4. To view objects on the viewer RPi: ```python pi_viewer.py```
 
 **Compass Installation:** See [py_qmc5883l](https://github.com/RigacciOrg/py-qmc5883l) for compass module instructions
-
-2. Clone the repo
-   ```sh
-   git clone https://github.com/sdegefa/Project-Hircine.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/sdegefa/Project-Hircine/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
