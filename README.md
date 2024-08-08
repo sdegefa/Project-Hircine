@@ -114,11 +114,10 @@ In this repo, we have broken down the project into a couple parts:
 
 ### Prerequisites
 
-**Detector Hardware requirements:** Raspberry Pi (64 bit Bookworm), 2 x RPi Camera Modules, qmc 5883l compass module
+**Detector hardware requirements:** Raspberry Pi (64 bit Bookworm), 2 x RPi Camera Modules, qmc 5883l compass module
 
-**Viewer Hardware requirements:** Raspberry Pi (64 bit Bookworm), 1 x RPi Camera Modules, qmc 5883l compass module, RPi 7 inch touch screen (for mobile viewing)
+**Viewer hardware requirements:** Raspberry Pi (64 bit Bookworm), 1 x RPi Camera Modules, qmc 5883l compass module, RPi 7 inch touch screen (for mobile viewing)
 
-**For all software requirements see requirements.txt**
 
 ### Installationlinkedin
 
