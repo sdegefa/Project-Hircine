@@ -1,9 +1,13 @@
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from flask import Flask, request, render_template, jsonify
 import Detect
 import json
 from utils import ll_to_cart, cart_to_ll, get_obj_coords, img_decode, img_toHTML, convert_frame_to_base64
 import cv2
-from pytak_interface import main
+from Flask_Server_Code.pytak_interface import main
 from asyncio import run
 import time
 
@@ -11,7 +15,7 @@ app = Flask(__name__)
 
 data_store = {
     'obj_data': {'Compass Directions': ['NW', 'NW', 'NW'], 'Degrees from North': [270, 260, 280], 'Depths (m)': [20, 20, 20], 'Times': [time.time()-30, time.time()-100, time.time()]},
-    'img': convert_frame_to_base64(cv2.imread('red.png')),
+    'img': convert_frame_to_base64(cv2.imread('Wallhack Files/red.png')),
     'detector_lat': 35.111481,
     'detector_lon': -78.99123,
     'depth_feed': cv2.imread('output.png'),
