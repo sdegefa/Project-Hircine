@@ -105,15 +105,14 @@ In this repo, we have broken down the project into a couple parts:
 
 **TAK Utilities:** Files for communicating with an ATAK client
 
-
-### Prerequisites
+<!-- Setup -->
+## Setup
 
 **Detector hardware requirements:** Raspberry Pi (64 bit Bookworm), 2 x RPi Camera Modules, qmc5883l compass module
 
 **Viewer hardware requirements:** Raspberry Pi (64 bit Bookworm), 1 x RPi Camera Modules, qmc5883l compass module, RPi 7 inch touch screen (for mobile viewing)
 
 
-### Setup
 **Once all hardware is setup:**
 1. Initliaize Flask server: ```python flask_host.py```
 2. Start up detector on detector RPi: ```python server_posting.py```
