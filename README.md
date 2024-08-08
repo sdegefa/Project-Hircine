@@ -80,6 +80,8 @@ This project set out to design computer vision software for compact drones to as
 
 In addition to the initial project vision above, we created an program to Render detections from the drone from the point of view of an external device. This acts as "wallhacks" for the external viewer.
 
+The object detection was done on a raspberry pi for its cheap cost to make producing these drones scalable. Depth detection and server hosting was done on a laptop with the compute power to quickly perform depth calculations. We used ATAK for our TAK communications as an Android devices is the most realistic platform that our TAK communications will go to.
+
 ### Built With
 
 * [![Flask][Flask]][Flask-url]
@@ -104,12 +106,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
+T
 ### Installationlinkedin
 
 1. Get a free API Key at [https://example.com](https://example.com)
